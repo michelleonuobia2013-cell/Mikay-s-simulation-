@@ -1,0 +1,6 @@
+{
+  "name": "Mikay's Simulation",
+  "description": "Your Life. Your Rules. Your World. An immersive 3D open-world life simulation universe featuring realistic characters, careers, businesses, properties, vehicles, interactive storylines, Mikay's Arcade, Christmas Wonderland, and live multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
